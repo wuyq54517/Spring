@@ -8,8 +8,8 @@ proxies:
   - {name: 🇰🇷 首尔-No.1, server: shouer.123417.xyz, port: 443, type: vmess, uuid: 98c38105-2e8b-471a-a1e0-fcf7c6da3726, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray123, headers: {Host: shouer.123417.xyz}}}
   - {name: 🇭🇰 香港, server: 15.123417.xyz, port: 443, type: vmess, uuid: 8503c0de-fd71-4ef7-db39-7e1ef65fe9f6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray123, headers: {Host: 15.123417.xyz}}}
   - {name: 🇺🇸 圣何塞arm, server: shs.123417.xyz, port: 443, type: vmess, uuid: 1ea9f81b-c669-4598-a068-b4f800c8c3e6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray123, headers: {Host: shs.123417.xyz}}}
-  - {name: 🇺🇸 阿什本-移动-No.4, server: 172.67.200.160, port: 80, type: vmess, uuid: ee4b7c8b-1877-48d6-f693-b37d70a27013, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray12345, headers: {Host: 10.123417.xyz}}}
-  - {name: 🇺🇸 阿什本-电信-No.4, server: 172.64.68.122, port: 80, type: vmess, uuid: ee4b7c8b-1877-48d6-f693-b37d70a27013, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray12345, headers: {Host: 10.123417.xyz}}}
+  - {name: 阿什本-移动-No.4, server: 172.67.200.160, port: 80, type: vmess, uuid: ee4b7c8b-1877-48d6-f693-b37d70a27013, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray12345, headers: {Host: 10.123417.xyz}}}
+  - {name: 阿什本-电信-No.4, server: 172.64.68.122, port: 80, type: vmess, uuid: ee4b7c8b-1877-48d6-f693-b37d70a27013, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ray12345, headers: {Host: 10.123417.xyz}}}
   - {name: 🇨🇳 台湾, server: tw1.sanfen001.pics, port: 443, type: vmess, uuid: 5efd5607-4593-419d-ae94-2cbd368b2448, alterId: 0, cipher: auto, tls: true, servername: tw1.sanfen001.pics, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
 proxy-groups:
   - name: 🚀 节点选择
